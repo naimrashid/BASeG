@@ -1,0 +1,11 @@
+Package: BASeG
+Type: Package
+Title: Bivariate modeling of total and allele-specific sequencing read count 
+Version: 1.0
+Date: 2015-09-11
+Author: Naim Rashid
+Maintainer: Naim Rashid <naim@unc.edu>
+Description: Bivariate modeling of total and allele-specific sequencing read count   
+License: GPL version 2 or later
+LazyLoad: yes
+Packaged: 2015-09-11 18:26:40 UTC; nur2
